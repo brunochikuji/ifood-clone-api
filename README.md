@@ -1,5 +1,3 @@
 # Ifood clone api in Ruby on Rails
 
-Ifood clone api in ruby on rails
-
-* ...
+Ifood clone api created with Ruby on Rails
