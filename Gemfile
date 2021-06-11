@@ -11,7 +11,7 @@ gem 'mysql2', '>= 0.4.4'
 gem 'puma', '~> 3.11'
 
 gem 'ransack'
-gem 'geocoder', '~> 1.5', '>= 1.5.1'
+gem 'geocoder', '~> 1.6'
 gem 'active_model_serializers', '~> 0.10.2'
 gem 'rack-cors'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
